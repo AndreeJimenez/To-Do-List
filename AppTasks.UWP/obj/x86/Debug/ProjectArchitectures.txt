@@ -1,0 +1,1 @@
+C:\Users\andre\OneDrive\Escritorio\Repositories\To-Do-List\AppTasks.UWP\AppTasks.UWP.csproj;x86
