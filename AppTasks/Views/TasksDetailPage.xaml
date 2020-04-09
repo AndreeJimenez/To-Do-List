@@ -5,35 +5,35 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              x:Class="AppTasks.Views.TasksDetailPage"
-             Title="Detalle de la tarea">
+             Title="Task Detail">
     <StackLayout
         Margin="20"
         VerticalOptions="StartAndExpand">
         <Label
-            Text="Nombre de la tarea" />
+            Text="Title" />
         <Entry
             Text="{Binding TaskSelected.Name}" />
         <Label
-            Text="Notas de la tarea" />
+            Text="Notes" />
         <Entry
             Text="{Binding TaskSelected.Notes}" />
         <Label
-            Text="Finalizado" />
+            Text="Done" />
         <Switch
             IsToggled="{Binding TaskSelected.Done}" />
         <Label
-            Text="Imagen de la tarea" />
+            Text="Task Image" />
         <Entry
             Text="{Binding TaskSelected.ImageUrl}" />
         <Image Source="{Binding ImageSource_}" WidthRequest="100" />
         <Button
-            Text="Guardar"
+            Text="Save"
             Command="{Binding SaveCommand}" />
         <Button
-            Text="Eliminar"
+            Text="Delete"
             Command="{Binding DeleteCommand}" />
         <Button
-            Text="Cancelar"
+            Text="Cancel"
             Command="{Binding CancelCommand}" />
     </StackLayout>
 </ContentPage>

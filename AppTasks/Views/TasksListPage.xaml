@@ -5,7 +5,7 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              x:Class="AppTasks.Views.TasksListPage"
-             Title="Lista de tareas">
+             Title="To Do List">
     <ContentPage.ToolbarItems>
         <ToolbarItem
             Text="+"

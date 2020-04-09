@@ -7,10 +7,6 @@ namespace AppTasks.Extensions
 {
     public static class TaskExtensions
     {
-		// Extensión para un Task para poderlo invocar sin necesidad de la palabra await, 
-		// recibe el parámetro task que por default lo recibo,
-		// recibe un booleano para decirle si regresa al contexto,
-		// recibo una acción si se desea que se ejecute cuando hay una excepción
         public static async void SafeFireAndForget(this Task task, 
 			                                       bool returnToCallingContext,
 												   Action<Exception> onException = null)

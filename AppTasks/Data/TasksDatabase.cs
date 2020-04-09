@@ -24,8 +24,6 @@ namespace AppTasks.Data
             InitializeAsync().SafeFireAndForget(false);
         }
 
-
-        // Método para inicializar la table de tasks, si no existe la crea
         async Task InitializeAsync()
         {
             if (!initialized)
