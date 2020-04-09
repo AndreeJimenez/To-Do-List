@@ -493,3 +493,10 @@ C:\Users\andre\OneDrive\Escritorio\Repositories\To-Do-List\AppTasks.Android\obj\
 C:\Users\andre\OneDrive\Escritorio\Repositories\To-Do-List\AppTasks.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\andre\OneDrive\Escritorio\Repositories\To-Do-List\AppTasks.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\andre\OneDrive\Escritorio\Repositories\To-Do-List\AppTasks.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\andre\OneDrive\Escritorio\Repositories\To-Do-List\AppTasks.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+C:\Users\andre\OneDrive\Escritorio\Repositories\To-Do-List\AppTasks.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+C:\Users\andre\OneDrive\Escritorio\Repositories\To-Do-List\AppTasks.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+C:\Users\andre\OneDrive\Escritorio\Repositories\To-Do-List\AppTasks.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\MediaElementRenderer.java
+C:\Users\andre\OneDrive\Escritorio\Repositories\To-Do-List\AppTasks.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+C:\Users\andre\OneDrive\Escritorio\Repositories\To-Do-List\AppTasks.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+C:\Users\andre\OneDrive\Escritorio\Repositories\To-Do-List\AppTasks.Android\obj\Debug\90\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
