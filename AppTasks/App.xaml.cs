@@ -23,7 +23,7 @@ namespace AppTasks
             InitializeComponent();
 
             var nav = new NavigationPage(new TasksListPage());
-            nav.BarBackgroundColor = (Color)App.Current.Resources["primaryDarkGreen"];
+            nav.BarBackgroundColor = (Color)App.Current.Resources["primaryColor"];
             nav.BarTextColor = Color.White;
             MainPage = nav;
         }

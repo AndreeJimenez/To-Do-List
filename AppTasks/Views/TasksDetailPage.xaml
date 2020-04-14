@@ -10,30 +10,43 @@
         Margin="20"
         VerticalOptions="StartAndExpand">
         <Label
-            Text="Title" />
+            Text="Title"
+            TextColor="#1D2731"/>
         <Entry
-            Text="{Binding TaskSelected.Name}" />
+            Text="{Binding TaskSelected.Name}"
+            TextColor="#1D2731"/>
         <Label
-            Text="Notes" />
+            Text="Notes"
+            TextColor="#1D2731"/>
         <Entry
-            Text="{Binding TaskSelected.Notes}" />
+            Text="{Binding TaskSelected.Notes}"
+            TextColor="#1D2731"/>
         <Label
-            Text="Done" />
+            Text="Done"
+            TextColor="#1D2731"/>
         <Switch
-            IsToggled="{Binding TaskSelected.Done}" />
+            IsToggled="{Binding TaskSelected.Done}"/>
         <Label
-            Text="Task Image" />
+            Text="Task Image"
+            TextColor="#1D2731"/>
         <Entry
-            Text="{Binding TaskSelected.ImageUrl}" />
-        <Image Source="{Binding ImageSource_}" WidthRequest="100" />
+            Text="{Binding TaskSelected.ImageUrl}"/>
+        <Image Source="{Binding ImageSource_}"
+               WidthRequest="100"/>
         <Button
             Text="Save"
-            Command="{Binding SaveCommand}" />
+            Command="{Binding SaveCommand}"
+            BackgroundColor="#0B3C5D"
+            TextColor="#D9B310"/>
         <Button
             Text="Delete"
-            Command="{Binding DeleteCommand}" />
+            Command="{Binding DeleteCommand}"
+            BackgroundColor="#0B3C5D"
+            TextColor="#D9B310"/>
         <Button
             Text="Cancel"
-            Command="{Binding CancelCommand}" />
+            Command="{Binding CancelCommand}"
+            BackgroundColor="#0B3C5D"
+            TextColor="#D9B310"/>
     </StackLayout>
 </ContentPage>

@@ -7,8 +7,9 @@
              x:Class="AppTasks.App">
     <Application.Resources>
         <ResourceDictionary>
-            <Color x:Key="primaryGreen">#91CA47</Color>
-            <Color x:Key="primaryDarkGreen">#6FA22E</Color>
+            <Color x:Key="primaryColor">#1D2731</Color>
+            <Color x:Key="secundaryColor">#0B3C5D</Color>
+            <Color x:Key="textColor">#D9B310</Color>
         </ResourceDictionary>
     </Application.Resources>
 </Application>
