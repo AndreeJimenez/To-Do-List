@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "R0nvx6reYjn/V5joiV19lkJ+i/i07zRYn6bNac0tXWmp7SSmW3RQ/rIUZAGjY34W+PhsDIFc270tginXufBA0w==",
+  "dgSpecHash": "m048ii5EVmvCKVCrASUi5DZHSdJFPo6TSlubDHNsUac37VOJRJDvEkYJP1wenenLOOt/dErldWKKnZOkvQbJMw==",
   "success": true,
   "projectFilePath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Repositories\\To-Do-List\\AppTasks.iOS\\AppTasks.iOS.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\andre\\.nuget\\packages\\sqlitepclraw.bundle_green\\1.1.13\\sqlitepclraw.bundle_green.1.1.13.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\sqlitepclraw.core\\1.1.13\\sqlitepclraw.core.1.1.13.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\sqlitepclraw.provider.sqlite3.ios_unified\\1.1.13\\sqlitepclraw.provider.sqlite3.ios_unified.1.1.13.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\xamarin.essentials\\1.5.2\\xamarin.essentials.1.5.2.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\xamarin.forms\\4.5.0.617\\xamarin.forms.4.5.0.617.nupkg.sha512"
   ],

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "yqlxzIkZ/Bcliue62RJCLWIHHEwuwdP9pO9hccifwpXtqBBWLGaL4AE9nr1m+5At0+CNGwksBvNjMpN6GEBvTQ==",
+  "dgSpecHash": "mOswEXFezMOVFVBK+ihqG+5LhmdGOrGZPQ6xE++2dxgc2X8Cmtpt1PeooFf8QSozpPPVLsxad+deekPcrR1shg==",
   "success": true,
   "projectFilePath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Repositories\\To-Do-List\\AppTasks\\AppTasks.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\andre\\.nuget\\packages\\sqlitepclraw.bundle_green\\1.1.13\\sqlitepclraw.bundle_green.1.1.13.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\sqlitepclraw.core\\1.1.13\\sqlitepclraw.core.1.1.13.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\xamarin.essentials\\1.5.2\\xamarin.essentials.1.5.2.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\xamarin.forms\\4.5.0.617\\xamarin.forms.4.5.0.617.nupkg.sha512"
   ],

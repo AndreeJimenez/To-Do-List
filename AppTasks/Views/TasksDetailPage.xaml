@@ -34,6 +34,20 @@
         <Image Source="{Binding ImageSource_}"
                WidthRequest="100"/>
         <Button
+            Text="Take Picture"
+            Command="{Binding TakePictureCommand}"
+            TextColor="#D9B310"
+            BackgroundColor="#0B3C5D"
+            BorderColor="#D9B310"
+            BorderWidth="1"/>
+        <Button
+            Text="Select Picture"
+            Command="{Binding SelectPictureCommand}"
+            TextColor="#D9B310"
+            BackgroundColor="#0B3C5D"
+            BorderColor="#faa4a3"
+            BorderWidth="1"/>
+        <Button
             Text="Save"
             Command="{Binding SaveCommand}"
             BackgroundColor="#0B3C5D"

@@ -15,10 +15,10 @@ C:\Users\andre\OneDrive\Escritorio\Repositories\To-Do-List\AppTasks\obj\Debug\ne
 C:\Users\andre\OneDrive\Escritorio\Repositories\To-Do-List\AppTasks\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 C:\Users\andre\OneDrive\Escritorio\Repositories\To-Do-List\AppTasks\obj\Debug\netstandard2.0\Views\TasksDetailPage.xaml.g.cs
 C:\Users\andre\OneDrive\Escritorio\Repositories\To-Do-List\AppTasks\obj\Debug\netstandard2.0\Views\TasksListPage.xaml.g.cs
-C:\Users\andre\OneDrive\Escritorio\Repositories\To-Do-List\AppTasks\obj\Debug\netstandard2.0\AppTasks.csproj.CoreCompileInputs.cache
 C:\Users\andre\OneDrive\Escritorio\Repositories\To-Do-List\AppTasks\obj\Debug\netstandard2.0\AppTasks.AssemblyInfoInputs.cache
 C:\Users\andre\OneDrive\Escritorio\Repositories\To-Do-List\AppTasks\obj\Debug\netstandard2.0\AppTasks.AssemblyInfo.cs
-C:\Users\andre\OneDrive\Escritorio\Repositories\To-Do-List\AppTasks\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\andre\OneDrive\Escritorio\Repositories\To-Do-List\AppTasks\obj\Debug\netstandard2.0\AppTasks.dll
 C:\Users\andre\OneDrive\Escritorio\Repositories\To-Do-List\AppTasks\obj\Debug\netstandard2.0\ref\AppTasks.dll
 C:\Users\andre\OneDrive\Escritorio\Repositories\To-Do-List\AppTasks\obj\Debug\netstandard2.0\AppTasks.pdb
+C:\Users\andre\OneDrive\Escritorio\Repositories\To-Do-List\AppTasks\obj\Debug\netstandard2.0\AppTasks.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Repositories\To-Do-List\AppTasks\obj\Debug\netstandard2.0\XamlC.stamp

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "utSgWYocxec+f7fC6Wnha3hbyy+3ZJeKh5W8qXJzLOjc1XQXTQFjbylwqOAUrqHiA/FXg/u3zlG3r1u/lcoylQ==",
+  "dgSpecHash": "HcsxriRd9KFD10rejOnS2JRkInYVZukr/Px30mz4hNmtBK13AAFZ+TTGiJJ82NqSJ725tn2d8vEU5W1vxs++ag==",
   "success": true,
   "projectFilePath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Repositories\\To-Do-List\\AppTasks.UWP\\AppTasks.UWP.csproj",
   "expectedPackageFiles": [
@@ -34,6 +34,7 @@
     "C:\\Users\\andre\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3.v140\\1.1.13\\sqlitepclraw.lib.e_sqlite3.v140.1.1.13.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3.uwp10\\1.1.13\\sqlitepclraw.provider.e_sqlite3.uwp10.1.1.13.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\win2d.uwp\\1.20.0\\win2d.uwp.1.20.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\xamarin.essentials\\1.5.2\\xamarin.essentials.1.5.2.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\xamarin.forms\\4.5.0.617\\xamarin.forms.4.5.0.617.nupkg.sha512"
   ],
