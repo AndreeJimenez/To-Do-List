@@ -96,7 +96,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Repositories\To-Do-List\AppTasks\bin\Debug\netstandard2.0\AppTasks.dll">
       <PackagePath>AppTasks.dll</PackagePath>
-      <Modified>2020-04-16T00:19:50.220</Modified>
+      <Modified>2020-04-16T04:52:04.073</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Microsoft\Xamarin\NuGet\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
