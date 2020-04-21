@@ -16,31 +16,9 @@ namespace AppTasks.Services
             Timeout = TimeSpan.FromSeconds(DownloadImageTimeoutSeconds)
         };
 
-        async Task<byte[]> DownloadImageAsync(string imageUrl)
-        {
-            try
-            {
-                using (HttpResponseMessage httpResponse = await HttpClient_.GetAsync(imageUrl))
-                {
-                    if (httpResponse.StatusCode == System.Net.HttpStatusCode.OK)
-                    {
-                        return await httpResponse.Content.ReadAsByteArrayAsync();
-                    }
-                    else
-                    {
-                        return null;
-                    }
-                }
-            }
-            catch
-            {
-                return null;
-            }
-        }
-
         public async Task<string> DownloadImageAsBase64Async(string imageUrl)
         {
-            byte[] imageByteArray = await DownloadImageAsync(imageUrl);
+            byte[] imageByteArray = System.IO.File.ReadAllBytes(imageUrl);
             return System.Convert.ToBase64String(imageByteArray);
         }
 

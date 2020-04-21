@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\andre\OneDrive\Escritorio\Repositories\To-Do-List\AppTasks.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-04-16T00:21:55.574</Modified>
+      <Modified>2020-04-21T16:04:47.053</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Repositories\To-Do-List\AppTasks.UWP\bin\x86\Debug\AppTasks.UWP.exe">
       <PackagePath>entrypoint\AppTasks.UWP.exe</PackagePath>
-      <Modified>2020-04-16T00:21:53.300</Modified>
+      <Modified>2020-04-21T16:04:45.010</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\andre\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -96,7 +96,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Repositories\To-Do-List\AppTasks\bin\Debug\netstandard2.0\AppTasks.dll">
       <PackagePath>AppTasks.dll</PackagePath>
-      <Modified>2020-04-16T04:52:04.073</Modified>
+      <Modified>2020-04-21T17:42:19.434</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Microsoft\Xamarin\NuGet\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
@@ -279,7 +279,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\andre\OneDrive\Escritorio\Repositories\To-Do-List\AppTasks.UWP\bin\x86\Debug\Core\AppTasks.UWP.exe">
       <PackagePath>AppTasks.UWP.exe</PackagePath>
-      <Modified>2020-04-16T00:21:55.550</Modified>
+      <Modified>2020-04-21T16:04:47.029</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

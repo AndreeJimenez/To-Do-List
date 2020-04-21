@@ -1,4 +1,4 @@
-﻿using AppTasks.Extensions;
+﻿ using AppTasks.Extensions;
 using AppTasks.Models;
 using SQLite;
 using System;

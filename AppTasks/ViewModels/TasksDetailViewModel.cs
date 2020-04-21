@@ -60,9 +60,9 @@ namespace AppTasks.ViewModels
 
         private async void SaveAction()
         {
-            if (!string.IsNullOrEmpty(TaskSelected.ImageUrl))
+            if (!string.IsNullOrEmpty(taskSelected.ImageUrl))
             {
-                TaskSelected.ImageBase64 = await new ImageService().DownloadImageAsBase64Async(TaskSelected.ImageUrl);
+                TaskSelected.ImageBase64 = await new ImageService().DownloadImageAsBase64Async(taskSelected.ImageUrl);
             }
             await App.TasksDatabase.SaveTaskAsync(TaskSelected);
             TasksListViewModel.GetInstance().LoadTasks();
@@ -103,7 +103,7 @@ namespace AppTasks.ViewModels
             if (file == null)
                 return;
 
-            ImageUrl = file.Path;
+            taskSelected.ImageUrl = file.Path;
             await Application.Current.MainPage.DisplayAlert("File Location", file.Path, "OK");
 
             ImageSource_ = ImageSource.FromStream(() =>
@@ -134,7 +134,7 @@ namespace AppTasks.ViewModels
             if (file == null)
                 return;
 
-            ImageUrl = file.Path;
+            taskSelected.ImageUrl = file.Path;
 
             ImageSource_ = ImageSource.FromStream(() =>
             {

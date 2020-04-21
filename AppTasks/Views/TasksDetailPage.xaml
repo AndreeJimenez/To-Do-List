@@ -29,8 +29,6 @@
         <Label
             Text="Task Image"
             TextColor="#1D2731"/>
-        <Entry
-            Text="{Binding TaskSelected.ImageUrl}"/>
         <Image Source="{Binding ImageSource_}"
                WidthRequest="100"/>
         <Button
